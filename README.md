@@ -68,3 +68,8 @@ Para Random Forest
 # Conclusiones
  
 El mejor clasificador para nuestro dataset fue el KNN con  un puntaje de F1 Score de 71% aproximadamente como sabemos que esta métrica no es muy buena utilizamos el coeficiente de correlación de Matthews alcanzado un valor del 55.2% aproximadamente, que como podemos ver esta por encima del 50% pero no es un valor muy alto, para poder conseguir puntajes más altos para los clasificadores se podría  implementar más modelos de clasificación que se hayan visto o no en clase y aumentar los datos de entrenamiento, y de esta manera comparar los resultados y poder decir cual es mejor. 
+
+Video explicativo
+
+https://youtu.be/v619EjhefHI
+
